@@ -1,0 +1,1 @@
+char ***dict(int *length,char *lexicon, int diflen, int count_words, struct word *cr_words, int dimensions, int *counts);

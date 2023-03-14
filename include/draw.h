@@ -1,0 +1,1 @@
+int draw(char **array, int size);
