@@ -22,6 +22,6 @@ run: $(OUT)
 	@rm -f $(OBJ)
 
 clean:
-	rm -f $(OUT)
+	rm -f $(OUT) $(OBJ)
 
 .PHONY: build run clean
