@@ -3,7 +3,7 @@
 ## Creators:
 
 
-> [Evangelos Argyropoulos]() AM: 1115202200010
+> [Evangelos Argyropoulos](https://github.com/vaggelisarg13)
 
 **I have created the following parts of the project:**
 * the stack and all the functions that have to do with it ('push', 'pop', 'freestack')
@@ -21,7 +21,7 @@
 * the 'check' function(https://cgi.di.uoa.gr/~ip/K04.pdf)
 
 
-> [Dimitrios Vitantzakis](https://github.com/DimitrisVita) AM: 1115202200019
+> [Dimitrios Vitantzakis](https://github.com/DimitrisVita)
 
 **I have created the following parts of the project:**
 Functions:
