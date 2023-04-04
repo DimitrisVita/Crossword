@@ -1,47 +1,13 @@
 # Crossword solver
+That project was developed during "Introduction to Programming" course of the "Department of Informatic and Telecommunications" - UoA. We were asked to create a program that solves crosswords in the minimum possible time.
 
 ## Creators:
 
+ [Evangelos Argyropoulos](https://github.com/vaggelisarg13)
 
-> [Evangelos Argyropoulos](https://github.com/vaggelisarg13)
+ [Dimitrios Vitantzakis](https://github.com/DimitrisVita)
 
-**I have created the following parts of the project:**
-* the stack and all the functions that have to do with it ('push', 'pop', 'freestack')
-* 'len_index' and 'find_length' functions
-* 'initiallize_domains' function
-* 'insert_word' and 'export_word' functions
-* the part of the neighbours function in which the neighbours get into order by priority
-* the 'find_word_to_export' function
-* the 'availability' function
-* the 'find_basic_constraints' and the 'searching' functions
-* the 'solve' function
-* the 'dict' function
-* the 'bubblesort_for_horizontal' and the 'bubblesort_for_vertical' functions
-* the 'basic_restrictions_for_vertical_variables' function
-* the 'check' function(https://cgi.di.uoa.gr/~ip/K04.pdf)
-
-
-> [Dimitrios Vitantzakis](https://github.com/DimitrisVita)
-
-**I have created the following parts of the project:**
-Functions:
-* crossw
-* crash
-* find_words
-* neighbours_ and search_word
-* sort_words
-* draw
-* quicksort_by_priority and partition
-
-Files:
-* Makefile
-
-Others:
-
-* File organization.
-
-
-## Compilation:
+## Compilation:  
 
 ### How to run
 ```bash
